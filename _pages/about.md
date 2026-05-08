@@ -27,7 +27,6 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 - IELTS: 7.0, with 7.5 in reading, 7.5 in listening, 6.5 in speaking and 6 in writing.
 - *2023.09 - Present*, Ph.D. Student, Microelectronics Science and Engineering, Southern University of Science and Technology and Pengcheng Laboratory.
 - *2019.09 - 2023.06*, B.Eng., Microelectronics Science and Engineering, Southern University of Science and Technology. GPA: 3.7 / 4.0.
-- *2016.09 - 2019.06*, Chongqing Eleven Middle School with score of 638 in the 2019 National College Entrance Examination, Science Stream, Paper II.
 
 
 # 🔥 News
