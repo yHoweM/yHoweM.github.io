@@ -157,16 +157,12 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 # 📝 Co-author Publications 
 
 - [A Highly Energy-Efficient Multi-Core Neuromorphic Architecture for Training Deep Spiking Neural Networks](https://www.nature.com/articles/s41467-026-70586-x), **Nature Communications**, 2026, **11th author**.  
-  This work demonstrates a multi-core neuromorphic architecture for efficient deep SNN training and federated learning across FPGA-based systems.
 
 - [A High-Performance Hybrid Division Algorithm: Combining Additive Iteration, Multiplicative Lookup, and Precision Compensation on FPGA](https://ieeexplore.ieee.org/document/11376869), **IEEE International Conference on Electron Devices and Applications**, 2025, **5th author**.  
-  This work proposes a hybrid FPGA division algorithm that combines iterative, lookup-based, and precision-compensation techniques for high-performance arithmetic computation.
 
 - [Stereo Matching Accelerator With Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10449892), **IEEE Transactions on Circuits and Systems I: Regular Papers**, 2024, **3rd author**.  
-  This work presents a stereo matching accelerator with recomputation and data-reuse pipeline strategies for real-time autonomous driving perception.
 
 - [Real-Time_FPGA-Based_Binocular_Stereo_Vision_System_with_Semi-Global_Matching_Algorithm](https://ieeexplore.ieee.org/document/9739626), **IEEE International System-on-Chip Conference**, 2021, **5th author**.  
-  This work implements a real-time FPGA-based binocular stereo vision system using the Semi-Global Matching algorithm.
 
 # 🔬 Research Projects
 
