@@ -50,7 +50,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 (under review) **IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip**, 2026.
 
-- This paper optimizes logical-to-physical placement for many-core SNN training systems using graph-based reinforcement learning to reduce NoC communication cost, hop distance, and traffic hotspots.
+This paper optimizes logical-to-physical placement for many-core SNN training systems using graph-based reinforcement learning to reduce NoC communication cost, hop distance, and traffic hotspots.
 
 </div>
 </div>
@@ -64,7 +64,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **IEEE International NEWCAS Conference**, 2026.
 
-- This paper proposes a simulation-guided hardware-software co-design framework for SNN training, covering forward propagation, backward propagation, and weight-gradient computation with FPGA prototype validation.
+This paper proposes a simulation-guided hardware-software co-design framework for SNN training, covering forward propagation, backward propagation, and weight-gradient computation with FPGA prototype validation.
 
 </div>
 </div>
@@ -78,7 +78,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **Microelectronics Journal**, 2026.
 
-- This paper presents a spike-aware training architecture and cross-layer simulation framework for Spiking Transformers, supporting FP/BP/WG training with energy-dataflow optimization.
+This paper presents a spike-aware training architecture and cross-layer simulation framework for Spiking Transformers, supporting FP/BP/WG training with energy-dataflow optimization.
 
 </div>
 </div>
@@ -92,7 +92,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **IEEE International System-on-Chip Conference**, 2025.
 
-- This paper builds a simulation framework for spike-driven Transformer workloads to analyze energy, memory access, and dataflow trade-offs from a hardware architecture perspective.
+This paper builds a simulation framework for spike-driven Transformer workloads to analyze energy, memory access, and dataflow trade-offs from a hardware architecture perspective.
 
 </div>
 </div>
@@ -106,7 +106,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **IEEE International Conference on Integrated Circuits, Technologies, and Applications**, 2025.
 
-- This paper designs a reusable multiple-precision floating-point fused-multiply-add processor to improve hardware resource efficiency for arithmetic IP implementation.
+This paper designs a reusable multiple-precision floating-point fused-multiply-add processor to improve hardware resource efficiency for arithmetic IP implementation.
 
 </div>
 </div>
@@ -120,7 +120,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **Sensors**, 2022.
 
-- This paper proposes a five-direction occlusion filling and pipelined post-processing method to improve stereo matching disparity refinement with sub-pixel estimation.
+This paper proposes a five-direction occlusion filling and pipelined post-processing method to improve stereo matching disparity refinement with sub-pixel estimation.
 
 </div>
 </div>
@@ -134,7 +134,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **IEEE International System-on-Chip Conference**, 2022.
 
-- This paper implements real-time FPGA post-processing refinement for the Semi-Global Matching algorithm to improve stereo depth estimation quality.
+This paper implements real-time FPGA post-processing refinement for the Semi-Global Matching algorithm to improve stereo depth estimation quality.
 
 </div>
 </div>
@@ -149,7 +149,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **IEEE Asia Pacific Conference on Circuits and Systems**, 2022.
 
-- This paper develops a sub-pixel interpolation refinement method for Semi-Global Matching to improve disparity-map precision in stereo vision systems.
+This paper develops a sub-pixel interpolation refinement method for Semi-Global Matching to improve disparity-map precision in stereo vision systems.
 
 </div>
 </div>
