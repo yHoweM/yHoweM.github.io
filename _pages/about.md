@@ -23,13 +23,10 @@ My research focuses on **AI accelerator architecture**, **neuromorphic computing
 
 Before and during my Ph.D. study, I worked on several hardware-oriented AI computing projects, including Spiking Transformer training accelerators, many-core SNN training architectures, floating-point arithmetic IP design, and a 28 nm stereo depth co-processor ASIC.
 
-<!-- Replace the Google Scholar link below with your own profile when available. -->
-<!--
-Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'>profile</a>
-<a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'>
-<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
--->
+# 📖 Educations
+
+- *2023.09 - Present*, Ph.D. Student, Integrated Circuit Science and Engineering, Southern University of Science and Technology / Peng Cheng Laboratory.
+- *2019.09 - 2023.06*, B.Eng., Microelectronics Science and Engineering, Southern University of Science and Technology. GPA: 3.68 / 4.0. IELTS: 7.0.
 
 # 🔥 News
 
@@ -188,10 +185,6 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 - *2021*: International First Prize in academic competitions at Southern University of Science and Technology.
 - *2021*: Global Intelligent Robot Competition, Best Performance Award and Global Champion.
 
-# 📖 Educations
-
-- *2023.09 - Present*, Ph.D. Student, Integrated Circuit Science and Engineering, Southern University of Science and Technology / Peng Cheng Laboratory.
-- *2019.09 - 2023.06*, B.Eng., Microelectronics Science and Engineering, Southern University of Science and Technology. GPA: 3.68 / 4.0. IELTS: 7.0.
 
 # 💻 Technical Skills
 
