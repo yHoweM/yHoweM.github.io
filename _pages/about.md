@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student in Integrated Circuit Science and Engineering at Southern University of Science and Technology, jointly trained with Peng Cheng Laboratory. I received my B.Eng. degree in Microelectronics Science and Engineering from Southern University of Science and Technology.
 
-My research focuses on **AI accelerator architecture**, **neuromorphic computing**, **spiking neural network training**, **NPU operator optimization**, and **hardware-software co-design** for efficient deep learning systems. I am particularly interested in spike-aware training accelerators, Spiking Transformers, many-core neuromorphic systems, sparse attention operators, and energy-efficient AI computing across FPGA, ASIC, and commercial NPUs.
+My research focuses on **AI acceleration**, **neuromorphic computing**, **spiking neural network training**, **NPU operator optimization**, and **hardware-software co-design** for efficient deep learning systems. I am particularly interested in spike-aware training accelerators, Spiking Transformers, many-core neuromorphic systems, sparse attention operators, and energy-efficient AI computing across FPGA, ASIC, and commercial NPUs.
 
 Before and during my Ph.D. study, I worked on several hardware-oriented AI computing projects, including FPGA-based Spiking Transformer training accelerators, many-core SNN training architectures, floating-point arithmetic IP design, and a 28 nm stereo depth co-processor ASIC.
 
