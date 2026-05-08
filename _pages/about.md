@@ -35,7 +35,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=YOUR_ID'>prof
 
 - *2026.03*: &nbsp; Started research on key sparse operator optimization for large-model inference on Huawei Ascend NPUs.
 - *2026*: &nbsp; One paper accepted by **IEEE NEWCAS 2026** on simulation-guided SNN training co-design with FPGA prototyping.
-- *2026*: &nbsp; One paper accepted by **MCSoC 2026** on communication-aware placement optimization for many-core SNN training.
+- *2026*: &nbsp; One paper is under reviewed by **MCSoC 2026** on communication-aware placement optimization for many-core SNN training.
 - *2026*: &nbsp; One first-author paper published in **Microelectronics Journal** on spike-aware training architecture for Spiking Transformers.
 - *2025*: &nbsp; One first-author paper accepted by **IEEE SOCC 2025** on simulation and dataflow optimization for spike-driven Transformer systems.
 - *2025*: &nbsp; One first-author paper accepted by **IEEE ICTA 2025** on reusable floating-point fused-multiply-add processor design.
