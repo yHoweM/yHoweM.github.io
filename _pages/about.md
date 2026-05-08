@@ -41,7 +41,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 - *2025*: &nbsp; One first-author paper accepted by **IEEE ICTA 2025** on reusable floating-point fused-multiply-add processor design.
 - *2024*: &nbsp; One co-authored paper published in **IEEE TCAS-I** based on a 28 nm stereo depth co-processor ASIC project.
 
-# 📝 Publications 
+# 📝 First-author Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEJ 2026</div><img src='images/mej2026.png' alt="Spiking Transformer Training Architecture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,7 +82,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 
 [Communication-Aware Placement Optimization for Many-Core SNN Training via Graph-based Reinforcement Learning](#)
 
-Wanting Wen, **Yunhao Ma**, Yanyu Lin, Wenjie Lin, Wenxiang Cheng, Boyang Ma, Xiang Li, Wanyi Jia, Zhengyu Ma, Fengwei An, Xueke Zhu, Yonghong Tian, Huihui Zhou
+**Yunhao Ma**, Wanting Wen, Yanyu Lin, Wenjie Lin, Wenxiang Cheng, Boyang Ma, Xiang Li, Wanyi Jia, Zhengyu Ma, Fengwei An, Xueke Zhu, Yonghong Tian, Huihui Zhou
 
 **IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip**, 2026.
 
@@ -99,7 +99,7 @@ Wanting Wen, **Yunhao Ma**, Yanyu Lin, Wenjie Lin, Wenxiang Cheng, Boyang Ma, Xi
 
 [SimST: Simulation Framework for Energy-Dataflow Co-Optimization in Spike-Driven Transformer](#)
 
-**Yunhao Ma**, et al.
+**Yunhao Ma**, Yanyu Lin, Wanyi Jia, Puli Quan, Mingjing Li, Zhiwei Zhong, Fengwei An, Huihui Zhou
 
 **IEEE International System-on-Chip Conference**, 2025.
 
