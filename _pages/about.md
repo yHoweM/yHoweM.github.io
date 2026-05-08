@@ -34,8 +34,9 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 # 🔥 News
 
 - *2026*: &nbsp; Started to try researching on key sparse operator optimization for large-model inference on Huawei Ascend NPUs.
-- *2026*: &nbsp; One paper is under reviewed by **MCSoC 2026** on communication-aware placement optimization for many-core SNN training.
-- *2026*: &nbsp; One paper accepted by **IEEE NEWCAS 2026** on simulation-guided SNN training co-design with FPGA prototyping.
+- *2026*: &nbsp; One first-author paper is under reviewed by **MCSoC 2026** on communication-aware placement optimization for many-core SNN training.
+- *2026*: &nbsp; One first-author paper accepted by **IEEE NEWCAS 2026** on simulation-guided SNN training co-design with FPGA prototyping.
+- *2026*: &nbsp; One co-author paper published in **Nature Communications** on SNN training architecture on five FPGAs.
 - *2026*: &nbsp; One first-author paper published in **Microelectronics Journal** on spike-aware training architecture for Spiking Transformers.
 - *2025*: &nbsp; One first-author paper accepted by **IEEE SOCC 2025** on simulation and dataflow optimization for spike-driven Transformer systems.
 - *2025*: &nbsp; One first-author paper accepted by **IEEE ICTA 2025** on reusable floating-point fused-multiply-add processor design.
@@ -157,7 +158,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 - *2024.12 - 2026.02*
 - Proposed a spike-aware training architecture and a software-hardware co-design simulator for Spiking Transformers.
 - Covered key operators including matrix multiplication, batch normalization, leaky-and-fire neuron, and residual connection.
-- Supported full FP/BP/WG training mapping with energy-dataflow analysis.
+- Supported full forward propagation, backword propagation and weight gradient process in training mapping with energy-dataflow analysis.
 - Validated key components through Verilog/HLS-based FPGA synthesis and implementation.
 
 ## Many-Core CSNN Training Accelerator Architecture
