@@ -25,8 +25,8 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 # 📖 Educations
 
-- *2023.09 - Present*, Ph.D. Student, Integrated Circuit Science and Engineering, Southern University of Science and Technology / Peng Cheng Laboratory.
-- *2019.09 - 2023.06*, B.Eng., Microelectronics Science and Engineering, Southern University of Science and Technology. GPA: 3.68 / 4.0. IELTS: 7.0.
+- *2023.09 - Present*, Ph.D. Student, Microelectronics Science and Engineering, Southern University of Science and Technology and Pengcheng Laboratory.
+- *2019.09 - 2023.06*, B.Eng., Microelectronics Science and Engineering, Southern University of Science and Technology. GPA: 3.7 / 4.0. IELTS: 7.0.
 
 # 🔥 News
 
