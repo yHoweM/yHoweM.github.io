@@ -6,11 +6,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "First-author Publications"
-    url: "/#-first-author-publications"
+  - title: "Main Publications"
+    url: "/#-main-publications"
     
-  - title: "Co-author Publications"
-    url: "/#-co-author-publications"
+  - title: "Collaborative Publications"
+    url: "/#-collaborative-publications"
     
   - title: "Research Projects"
     url: "/#-research-projects"
