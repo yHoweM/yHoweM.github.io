@@ -44,7 +44,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 
 # 📝 First-author Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCSoC 2026</div><img src='images/mcsoc2026.png' alt="Many-Core SNN Training Placement" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCSoC 2026</div><img src='images/mcsoc2026.png' alt="Many-Core SNN Training Placement" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Communication-Aware Placement Optimization for Many-Core SNN Training via Graph-based Reinforcement Learning](#)
@@ -55,7 +55,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEWCAS 2026</div><img src='images/newcas2026.png' alt="SNN Training Co-Design Framework" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEWCAS 2026</div><img src='images/newcas2026.png' alt="SNN Training Co-Design Framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Simulation-Guided Co-Design Framework for SNN Training with FPGA Prototyping](#)
@@ -66,7 +66,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEJ 2026</div><img src='images/mej2026.png' alt="Spiking Transformer Training Architecture" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEJ 2026</div><img src='images/mej2026.png' alt="Spiking Transformer Training Architecture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Energy-Efficient Spike-Aware Training Architecture for Spiking Transformers](#)
@@ -77,7 +77,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2025</div><img src='images/socc2025.png' alt="SimST Framework" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2025</div><img src='images/socc2025.png' alt="SimST Framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SimST: Simulation Framework for Energy-Dataflow Co-Optimization in Spike-Driven Transformer](#)
@@ -89,7 +89,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICTA 2025</div><img src='images/icta2025.png' alt="Floating IP" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICTA 2025</div><img src='images/icta2025.png' alt="Floating IP" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multiple Precision Floating-Point Fused-Multiply-Add Processor with Hardware Reuse Architecture](#)
@@ -101,7 +101,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.png' alt="sensors" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.png' alt="sensors" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Five-Direction Occlusion Filling with Five Layer Parallel Two-Stage Pipeline for Stereo Matching with Sub-Pixel Disparity Map Estimation](#)
@@ -113,7 +113,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2022</div><img src='images/socc2022.png' alt="Post SGM" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2022</div><img src='images/socc2022.png' alt="Post SGM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Post-Processing Refinement for Semi-Global Matching Algorithm Based on Real-Time FPGA](#)
@@ -126,7 +126,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APCCAS 2022</div><img src='images/apccas2022.png' alt="Subpixel" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APCCAS 2022</div><img src='images/apccas2022.png' alt="Subpixel" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Subpixel Interpolation Disparity Refinement for Semi-Global Matching](#)
