@@ -60,7 +60,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=YOUR_ID'>prof
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEWCAS 2026</div><img src='images/newcas_snn_training.png' alt="SNN Training Co-Design Framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEWCAS 2026</div><img src='images/newcas2026.png' alt="SNN Training Co-Design Framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Simulation-Guided Co-Design Framework for SNN Training with FPGA Prototyping](#)
