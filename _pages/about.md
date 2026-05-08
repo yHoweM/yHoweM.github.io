@@ -43,7 +43,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 
 # 📝 First-author Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEJ 2026</div><img src='images/mej2026.png' alt="Spiking Transformer Training Architecture" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEJ 2026</div><img src='images/mej2026.png' alt="Spiking Transformer Training Architecture" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Energy-Efficient Spike-Aware Training Architecture for Spiking Transformers](#)
@@ -60,7 +60,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEWCAS 2026</div><img src='images/newcas2026.png' alt="SNN Training Co-Design Framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEWCAS 2026</div><img src='images/newcas2026.png' alt="SNN Training Co-Design Framework" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Simulation-Guided Co-Design Framework for SNN Training with FPGA Prototyping](#)
