@@ -88,7 +88,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2025</div><img src='images/socc2025.png' alt="SimST Framework" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2025</div><img src='images/icta2025.png' alt="SimST Framework" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multiple Precision Floating-Point Fused-Multiply-Add Processor with Hardware Reuse Architecture](#)
@@ -139,7 +139,10 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 
 # 📝 Co-author Publications 
 
-- [Stereo Matching Accelerator With Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](#), **IEEE Transactions on Circuits and Systems I: Regular Papers**, 2024, **the 3rd author**.
+- [A Highly Energy-Efficient Multi-Core Neuromorphic Architecture for Training Deep Spiking Neural Networks](#), **Nature Communications**, 2026, **11th author**.
+- [A High-Performance Hybrid Division Algorithm: Combining Additive Iteration, Multiplicative Lookup, and Precision Compensation on FPGA](#), **IEEE International Conference on Electron Devices and Applications**, 2025, **5th author**.
+- [Stereo Matching Accelerator With Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](#), **IEEE Transactions on Circuits and Systems I: Regular Papers**, 2024, **3rd author**.
+- [Real-Time_FPGA-Based_Binocular_Stereo_Vision_System_with_Semi-Global_Matching_Algorithm](#), **IEEE International System-on-Chip Conference**, 2021, **5th author**.
 
 
 # 🔬 Research Projects
@@ -153,7 +156,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 ## Spiking Transformer Training Accelerator and Simulator
 - *2024.12 - 2026.02*
 - Proposed a spike-aware training architecture and a software-hardware co-design simulator for Spiking Transformers.
-- Covered key operators including MM, BN, LIF/SOMA, GRAD, and RES.
+- Covered key operators including matrix multiplication, batch normalization, leaky-and-fire neuron, and residual connection.
 - Supported full FP/BP/WG training mapping with energy-dataflow analysis.
 - Validated key components through Verilog/HLS-based FPGA synthesis and implementation.
 
