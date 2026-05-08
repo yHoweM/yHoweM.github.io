@@ -88,7 +88,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2025</div><img src='images/icta2025.png' alt="SimST Framework" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICTA 2025</div><img src='images/icta2025.png' alt="Floating IP" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multiple Precision Floating-Point Fused-Multiply-Add Processor with Hardware Reuse Architecture](#)
