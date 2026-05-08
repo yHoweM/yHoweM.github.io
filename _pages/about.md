@@ -154,7 +154,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 - *2024.12 - 2026.02*
 - Proposed a spike-aware training architecture and a software-hardware co-design simulator for Spiking Transformers.
 - Covered key operators including matrix multiplication, batch normalization, leaky-and-fire neuron, and residual connection.
-- Supported full forward propagation, backword propagation and weight gradient process in training mapping with energy-dataflow analysis.
+- Supported forward propagation, backword propagation and weight gradient process in training with energy-dataflow analysis.
 - Validated key components through Verilog/HLS-based FPGA synthesis and implementation.
 
 ## Many-Core CSNN Training Accelerator Architecture
@@ -166,7 +166,6 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 - *2023.04 - 2025.02*
 - Designed floating-point multiplier, adder, comparator, and fused-multiply-add IPs using Verilog.
 - Evaluated resource overhead, pipeline structure, and synthesis frequency against Xilinx Vivado floating-point IPs.
-- Keywords: **Verilog**, **FP16**, **RTL Design**, **FPGA**, **Arithmetic IP**.
 
 ## Stereo Depth Co-Processor ASIC Design
 - *2021.08 - 2023.04*
