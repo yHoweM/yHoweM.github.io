@@ -40,7 +40,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 - *2025*: &nbsp; 🎉 One first-author paper accepted by **IEEE ICTA 2025** on reusable floating-point fused-multiply-add processor design.
 - *2024*: &nbsp; 🔥 One co-authored paper published in **IEEE TCAS-I** based on a 28 nm stereo depth co-processor ASIC project with the taped-out chip.
 
-# 📝 First-author Publications 
+# 📝 Main Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCSoC 2026</div><img src='images/mcsoc2026.png' alt="Many-Core SNN Training Placement" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,6 +84,20 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2026</div><img src='images/nc2026.png' alt="multi-core SNN Training Architecture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Highly Energy-Efficient Multi-Core Neuromorphic Architecture for Training Deep Spiking Neural Networks](https://www.nature.com/articles/s41467-026-70586-x)
+
+Mingjing Li, Huihui Zhou, Xiaofeng Xu, Zhiwei Zhong, Puli Quan, Xueke Zhu, Yanyu Lin, Wenjie Lin, Xiaosha Li, Dong Wang, Junchao Zhang, **Yunhao Ma**, Xiaole Cui, Wei Wang, Qingyan Meng, Zhengyu Ma, Guoqi Li, Xiaoxin Cui, Yonghong Tian
+
+**Nature Communications**, 2026.
+
+- This paper presents a multi-core spike-aware training architecture for SNN and demonstrate it on 5 FPGA borads for ferdal learning.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2025</div><img src='images/socc2025.png' alt="SimST Framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -108,6 +122,20 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 **IEEE International Conference on Integrated Circuits, Technologies, and Applications**, 2025.
 
 - This paper designs a reusable multiple-precision floating-point fused-multiply-add processor to improve hardware resource efficiency for arithmetic IP implementation.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCASI 2024</div><img src='images/tcas12024.png' alt="sensors" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Stereo Matching Accelerator With Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10449892)
+
+Ke Li, Xiwei Fang , **Yunhao Ma**, Wenyue Zhang , Pingcheng Dong, Zhuoyu Chen , Lei Chen, and Fengwei An
+
+**IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS—I: REGULAR PAPERS**, 2024.
+
+- This paper proposes a five-direction occlusion filling and pipelined post-processing method to improve stereo matching disparity refinement with sub-pixel estimation.
 
 </div>
 </div>
@@ -155,9 +183,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 </div>
 </div>
 
-# 📝 Co-author Publications 
-
-- [A Highly Energy-Efficient Multi-Core Neuromorphic Architecture for Training Deep Spiking Neural Networks](https://www.nature.com/articles/s41467-026-70586-x), **Nature Communications**, 2026, **11th author**.  
+# 📝 Collaborative Publications 
 
 - [A High-Performance Hybrid Division Algorithm: Combining Additive Iteration, Multiplicative Lookup, and Precision Compensation on FPGA](https://ieeexplore.ieee.org/document/11376869), **IEEE International Conference on Electron Devices and Applications**, 2025, **5th author**.  
 
