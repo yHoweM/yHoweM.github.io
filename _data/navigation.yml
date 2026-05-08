@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "First-author Publications"
-    url: "/#-frist-author-publications"
+    url: "/#-first-author-publications"
     
   - title: "Co-author Publications"
     url: "/#-co-author-publications"
