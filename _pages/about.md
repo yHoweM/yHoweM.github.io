@@ -92,7 +92,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICTA 2025</div><img src='images/icta2025.png' alt="Floating IP" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multiple Precision Floating-Point Fused-Multiply-Add Processor with Hardware Reuse Architecture](#)
+[Multiple Precision Floating-Point Fused-Multiply-Add Processor with Hardware Reuse Architecture](https://ieeexplore.ieee.org/document/11329805)
 
 **Yunhao Ma**, Yuhan Wang, Hailin Chen, Runyang Liu, Lei Chen, Huihui Zhou, Fengwei An
 
@@ -104,11 +104,11 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.png' alt="sensors" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Five-Direction Occlusion Filling with Five Layer Parallel Two-Stage Pipeline for Stereo Matching with Sub-Pixel Disparity Map Estimation](#)
+[Five-Direction Occlusion Filling with Five Layer Parallel Two-Stage Pipeline for Stereo Matching with Sub-Pixel Disparity Map Estimation](https://www.mdpi.com/1424-8220/22/22/8605)
 
 **Yunhao Ma**, Xiwei Fang, Xinyu Guan, Ke Li, Lei Chen, Fengwei An
 
-**IEEE IEEE Asia Pacific Conference on Circuits and Systems**, 2022.
+**Sensors**, 2022.
 
 </div>
 </div>
@@ -116,7 +116,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2022</div><img src='images/socc2022.png' alt="Post SGM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Post-Processing Refinement for Semi-Global Matching Algorithm Based on Real-Time FPGA](#)
+[Post-Processing Refinement for Semi-Global Matching Algorithm Based on Real-Time FPGA](https://ieeexplore.ieee.org/document/9908134)
 
 **Yunhao Ma**, Xiwei Fang, Pingcheng Dong, Xinyu Guan, Ke Li, Lei Chen, Fengwei An
 
@@ -129,7 +129,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APCCAS 2022</div><img src='images/apccas2022.png' alt="Subpixel" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Subpixel Interpolation Disparity Refinement for Semi-Global Matching](#)
+[Subpixel Interpolation Disparity Refinement for Semi-Global Matching](https://ieeexplore.ieee.org/document/10090384)
 
 **Yunhao Ma**, Xiwei Fang, Pingcheng Dong, Xinyu Guan, Ke Li, Lei Chen, Fengwei An
 
@@ -140,10 +140,10 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 
 # 📝 Co-author Publications 
 
-- [A Highly Energy-Efficient Multi-Core Neuromorphic Architecture for Training Deep Spiking Neural Networks](#), **Nature Communications**, 2026, **11th author**.
-- [A High-Performance Hybrid Division Algorithm: Combining Additive Iteration, Multiplicative Lookup, and Precision Compensation on FPGA](#), **IEEE International Conference on Electron Devices and Applications**, 2025, **5th author**.
-- [Stereo Matching Accelerator With Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](#), **IEEE Transactions on Circuits and Systems I: Regular Papers**, 2024, **3rd author**.
-- [Real-Time_FPGA-Based_Binocular_Stereo_Vision_System_with_Semi-Global_Matching_Algorithm](#), **IEEE International System-on-Chip Conference**, 2021, **5th author**.
+- [A Highly Energy-Efficient Multi-Core Neuromorphic Architecture for Training Deep Spiking Neural Networks](https://www.nature.com/articles/s41467-026-70586-x), **Nature Communications**, 2026, **11th author**.
+- [A High-Performance Hybrid Division Algorithm: Combining Additive Iteration, Multiplicative Lookup, and Precision Compensation on FPGA](https://ieeexplore.ieee.org/document/11376869), **IEEE International Conference on Electron Devices and Applications**, 2025, **5th author**.
+- [Stereo Matching Accelerator With Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10449892), **IEEE Transactions on Circuits and Systems I: Regular Papers**, 2024, **3rd author**.
+- [Real-Time_FPGA-Based_Binocular_Stereo_Vision_System_with_Semi-Global_Matching_Algorithm](https://ieeexplore.ieee.org/document/9739626), **IEEE International System-on-Chip Conference**, 2021, **5th author**.
 
 
 # 🔬 Research Projects
