@@ -69,7 +69,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEJ 2026</div><img src='images/mej2026.png' alt="Spiking Transformer Training Architecture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Energy-Efficient Spike-Aware Training Architecture for Spiking Transformers](#)
+[An Energy-Efficient Spike-Aware Training Architecture for Spiking Transformers](https://www.sciencedirect.com/science/article/abs/pii/S1879239126000925)
 
 **Yunhao Ma**, Yanyu Lin, Mingjing Li, Puli Quan, Chenlin Zhou, Wanyi Jia, Xueke Zhu, Qingyan Meng, Huihui Zhou, Fengwei An
 
@@ -80,7 +80,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2025</div><img src='images/socc2025.png' alt="SimST Framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SimST: Simulation Framework for Energy-Dataflow Co-Optimization in Spike-Driven Transformer](#)
+[SimST: Simulation Framework for Energy-Dataflow Co-Optimization in Spike-Driven Transformer](https://ieeexplore.ieee.org/document/11235392)
 
 **Yunhao Ma**, Yanyu Lin, Wanyi Jia, Puli Quan, Mingjing Li, Zhiwei Zhong, Fengwei An, Huihui Zhou
 
