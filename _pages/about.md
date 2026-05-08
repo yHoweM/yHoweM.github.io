@@ -44,10 +44,6 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 
 # 📝 First-author Publications 
 
-**IEEE International NEWCAS Conference**, 2026.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCSoC 2026</div><img src='images/mcsoc2026.png' alt="Many-Core SNN Training Placement" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,6 +61,10 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 [A Simulation-Guided Co-Design Framework for SNN Training with FPGA Prototyping](#)
 
 **Yunhao Ma**, Wanting Wen, Wanyi Jia, Boyang Ma, Yanyu Lin, Xueke Zhu, Qingyan Meng, Huihui Zhou, Yonghong Tian, Fengwei An
+
+**IEEE International NEWCAS Conference**, 2026.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEJ 2026</div><img src='images/mej2026.png' alt="Spiking Transformer Training Architecture" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
