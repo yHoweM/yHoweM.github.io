@@ -21,12 +21,12 @@ I am a Ph.D. student in Integrated Circuit Science and Engineering at Southern U
 
 My research focuses on **AI accelerator architecture**, **neuromorphic computing**, **spiking neural network training**, **NPU operator optimization**, and **hardware-software co-design** for efficient deep learning systems. I am particularly interested in spike-aware training accelerators, Spiking Transformers, many-core neuromorphic systems, sparse attention operators, and energy-efficient AI computing across FPGA, ASIC, and commercial NPUs.
 
-Before and during my Ph.D. study, I worked on several hardware-oriented AI computing projects, including Spiking Transformer training accelerators, many-core SNN training architectures, floating-point arithmetic IP design, and a 28 nm stereo depth co-processor ASIC. My current research explores sparse attention operator optimization for large-model inference on Huawei Ascend NPUs.
+Before and during my Ph.D. study, I worked on several hardware-oriented AI computing projects, including Spiking Transformer training accelerators, many-core SNN training architectures, floating-point arithmetic IP design, and a 28 nm stereo depth co-processor ASIC.
 
 <!-- Replace the Google Scholar link below with your own profile when available. -->
 <!--
-Google Scholar: <a href='https://scholar.google.com/citations?user=YOUR_ID'>profile</a>
-<a href='https://scholar.google.com/citations?user=YOUR_ID'>
+Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'>profile</a>
+<a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'>
 <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>
 -->
@@ -34,8 +34,8 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=YOUR_ID'>prof
 # 🔥 News
 
 - *2026.03*: &nbsp; Started research on key sparse operator optimization for large-model inference on Huawei Ascend NPUs.
-- *2026*: &nbsp; One paper accepted by **IEEE NEWCAS 2026** on simulation-guided SNN training co-design with FPGA prototyping.
 - *2026*: &nbsp; One paper is under reviewed by **MCSoC 2026** on communication-aware placement optimization for many-core SNN training.
+- *2026*: &nbsp; One paper accepted by **IEEE NEWCAS 2026** on simulation-guided SNN training co-design with FPGA prototyping.
 - *2026*: &nbsp; One first-author paper published in **Microelectronics Journal** on spike-aware training architecture for Spiking Transformers.
 - *2025*: &nbsp; One first-author paper accepted by **IEEE SOCC 2025** on simulation and dataflow optimization for spike-driven Transformer systems.
 - *2025*: &nbsp; One first-author paper accepted by **IEEE ICTA 2025** on reusable floating-point fused-multiply-add processor design.
@@ -77,7 +77,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=YOUR_ID'>prof
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCSoC 2026</div><img src='images/mcsoc_manycore_snn.png' alt="Many-Core SNN Training Placement" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCSoC 2026</div><img src='images/mcsoc2026' alt="Many-Core SNN Training Placement" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Communication-Aware Placement Optimization for Many-Core SNN Training via Graph-based Reinforcement Learning](#)
@@ -94,7 +94,7 @@ Wanting Wen, **Yunhao Ma**, Yanyu Lin, Wenjie Lin, Wenxiang Cheng, Boyang Ma, Xi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2025</div><img src='images/simst_framework.png' alt="SimST Framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2025</div><img src='images/socc2025' alt="SimST Framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SimST: Simulation Framework for Energy-Dataflow Co-Optimization in Spike-Driven Transformer](#)
