@@ -149,7 +149,6 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 - *2026.03 - Present*
 - Optimizing sparse attention operators for large-model inference on Huawei Ascend NPUs.
 - Research topics include block-sparse attention, selected attention, sparse index layout, irregular KV access, load balancing, and hardware-aware scheduling.
-- Keywords: **Ascend NPU**, **BSA/DSA**, **KV Cache**, **Sparse Attention**, **Operator Optimization**.
 
 ## Spiking Transformer Training Accelerator and Simulator
 - *2024.12 - 2026.02*
@@ -195,8 +194,6 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 # 💬 Selected Research Interests
 
-- Spike-aware training accelerator architecture.
+- AI accelerator hardware architecture and simulation.
 - Hardware-software co-design for efficient AI systems.
 - Sparse attention operator optimization on commercial NPUs.
-- Many-core neuromorphic systems and NoC-aware mapping.
-- Energy-efficient FPGA/ASIC implementation for deep learning workloads.
