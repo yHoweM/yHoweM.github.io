@@ -93,7 +93,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **IEEE International System-on-Chip Conference**, 2025.
 
-- This paper builds a simulation framework for spike-driven Transformer workloads to analyze energy, memory access, and dataflow trade-offs from a hardware architecture perspective. The presentation [video](https://www.bilibili.com/video/BV1d6dgBcErK/?vd_source=53ffde686111be600545be4e3bb14641) provides more information.
+- This paper builds a simulation framework for spike-driven Transformer workloads to analyze energy, memory access, and dataflow trade-offs from a hardware architecture perspective. The presentation [video](https://www.bilibili.com/video/BV1j6dgBwEhF/?vd_source=53ffde686111be600545be4e3bb14641) provides more information.
 
 </div>
 </div>
