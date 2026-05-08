@@ -216,3 +216,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 - AI accelerator hardware architecture and simulation.
 - Hardware-software co-design for efficient AI systems.
 - Sparse attention operator optimization on commercial NPUs.
+
+# 🏠 Internships
+
+- 2023.05 - 2023.08, future vison, China.
