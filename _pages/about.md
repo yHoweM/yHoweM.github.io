@@ -30,14 +30,14 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 # 🔥 News
 
-- *2026*: &nbsp; 🎉Started to try researching on key sparse operator optimization for large-model inference on Huawei Ascend NPUs.
-- *2026*: &nbsp; 🎉🎉One first-author paper is under reviewed by **MCSoC 2026** on communication-aware placement optimization for many-core SNN training.
-- *2026*: &nbsp; 🎉🎉One first-author paper accepted by **IEEE NEWCAS 2026** on simulation-guided SNN training co-design with FPGA prototyping.
-- *2026*: &nbsp; 🎉🎉🎉🎉One co-author paper published in **Nature Communications** on SNN training architecture on five FPGAs for federated learning.
-- *2026*: &nbsp; 🎉🎉🎉One first-author paper published in **Microelectronics Journal** on spike-aware training architecture for Spiking Transformers.
-- *2025*: &nbsp; 🎉🎉One first-author paper accepted by **IEEE SOCC 2025** on simulation and dataflow optimization for spike-driven Transformer systems.
-- *2025*: &nbsp; 🎉🎉One first-author paper accepted by **IEEE ICTA 2025** on reusable floating-point fused-multiply-add processor design.
-- *2024*: &nbsp; 🎉🎉🎉One co-authored paper published in **IEEE TCAS-I** based on a 28 nm stereo depth co-processor ASIC project with the taped-out chip.
+- *2026*: &nbsp; Started to try researching on key sparse operator optimization for large-model inference on Huawei Ascend NPUs.
+- *2026*: &nbsp; 🎉One first-author paper is under reviewed by **MCSoC 2026** on communication-aware placement optimization for many-core SNN training.
+- *2026*: &nbsp; 🔥One co-author paper published in **Nature Communications** on SNN training architecture on five FPGAs for federated learning.
+- *2026*: &nbsp; 🎉One first-author paper accepted by **IEEE NEWCAS 2026** on simulation-guided SNN training co-design with FPGA prototyping.
+- *2026*: &nbsp; 🔥One first-author paper published in **Microelectronics Journal** on spike-aware training architecture for Spiking Transformers.
+- *2025*: &nbsp; 🎉One first-author paper accepted by **IEEE SOCC 2025** on simulation and dataflow optimization for spike-driven Transformer systems.
+- *2025*: &nbsp; 🎉One first-author paper accepted by **IEEE ICTA 2025** on reusable floating-point fused-multiply-add processor design.
+- *2024*: &nbsp; 🔥One co-authored paper published in **IEEE TCAS-I** based on a 28 nm stereo depth co-processor ASIC project with the taped-out chip.
 
 # 📝 First-author Publications 
 
