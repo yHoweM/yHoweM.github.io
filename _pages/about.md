@@ -30,14 +30,14 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 # 🔥 News
 
-- *2026*: &nbsp; Started research on key sparse operator optimization for large-model inference on Huawei Ascend NPUs.
-- *2026*: &nbsp; 🎉One first-author paper is under review by **MCSoC 2026** on communication-aware placement optimization for many-core SNN training.
-- *2026*: &nbsp; 🔥One co-author paper published in **Nature Communications** on SNN training architecture on five FPGAs for federated learning.
-- *2026*: &nbsp; 🎉One first-author paper accepted by **IEEE NEWCAS 2026** on simulation-guided SNN training co-design with FPGA prototyping.
-- *2026*: &nbsp; 🔥One first-author paper published in **Microelectronics Journal** on spike-aware training architecture for Spiking Transformers.
-- *2025*: &nbsp; 🎉One first-author paper accepted by **IEEE SOCC 2025** on simulation and dataflow optimization for spike-driven Transformer systems.
-- *2025*: &nbsp; 🎉One first-author paper accepted by **IEEE ICTA 2025** on reusable floating-point fused-multiply-add processor design.
-- *2024*: &nbsp; 🔥One co-authored paper published in **IEEE TCAS-I** based on a 28 nm stereo depth co-processor ASIC project with the taped-out chip.
+- *2026*: &nbsp; Started research on sparse operator optimization for large-model inference on Huawei Ascend NPUs.
+- *2026*: &nbsp; 🎉 One first-author paper is under review at **MCSoC 2026** on communication-aware placement optimization for many-core SNN training.
+- *2026*: &nbsp; 🔥 One co-author paper published in **Nature Communications** on SNN training architecture on five FPGAs for federated learning.
+- *2026*: &nbsp; 🎉 One first-author paper accepted by **IEEE NEWCAS 2026** on simulation-guided SNN training co-design with FPGA prototyping.
+- *2026*: &nbsp; 🔥 One first-author paper published in **Microelectronics Journal** on spike-aware training architecture for Spiking Transformers.
+- *2025*: &nbsp; 🎉 One first-author paper accepted by **IEEE SOCC 2025** on simulation and dataflow optimization for spike-driven Transformer systems.
+- *2025*: &nbsp; 🎉 One first-author paper accepted by **IEEE ICTA 2025** on reusable floating-point fused-multiply-add processor design.
+- *2024*: &nbsp; 🔥 One co-authored paper published in **IEEE TCAS-I** based on a 28 nm stereo depth co-processor ASIC project with the taped-out chip.
 
 # 📝 First-author Publications 
 
@@ -49,6 +49,9 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 **Yunhao Ma**, Wanting Wen, Yanyu Lin, Wenjie Lin, Wenxiang Cheng, Boyang Ma, Xiang Li, Wanyi Jia, Zhengyu Ma, Fengwei An, Xueke Zhu, Yonghong Tian, Huihui Zhou
 
 (under review) **IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip**, 2026.
+
+- This paper optimizes logical-to-physical placement for many-core SNN training systems using graph-based reinforcement learning to reduce NoC communication cost, hop distance, and traffic hotspots.
+
 </div>
 </div>
 
@@ -60,6 +63,9 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 **Yunhao Ma**, Wanting Wen, Wanyi Jia, Boyang Ma, Yanyu Lin, Xueke Zhu, Qingyan Meng, Huihui Zhou, Yonghong Tian, Fengwei An
 
 **IEEE International NEWCAS Conference**, 2026.
+
+- This paper proposes a simulation-guided hardware-software co-design framework for SNN training, covering forward propagation, backward propagation, and weight-gradient computation with FPGA prototype validation.
+
 </div>
 </div>
 
@@ -71,6 +77,9 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 **Yunhao Ma**, Yanyu Lin, Mingjing Li, Puli Quan, Chenlin Zhou, Wanyi Jia, Xueke Zhu, Qingyan Meng, Huihui Zhou, Fengwei An
 
 **Microelectronics Journal**, 2026.
+
+- This paper presents a spike-aware training architecture and cross-layer simulation framework for Spiking Transformers, supporting FP/BP/WG training with energy-dataflow optimization.
+
 </div>
 </div>
 
@@ -82,6 +91,8 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 **Yunhao Ma**, Yanyu Lin, Wanyi Jia, Puli Quan, Mingjing Li, Zhiwei Zhong, Fengwei An, Huihui Zhou
 
 **IEEE International System-on-Chip Conference**, 2025.
+
+- This paper builds a simulation framework for spike-driven Transformer workloads to analyze energy, memory access, and dataflow trade-offs from a hardware architecture perspective.
 
 </div>
 </div>
@@ -95,6 +106,8 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **IEEE International Conference on Integrated Circuits, Technologies, and Applications**, 2025.
 
+- This paper designs a reusable multiple-precision floating-point fused-multiply-add processor to improve hardware resource efficiency for arithmetic IP implementation.
+
 </div>
 </div>
 
@@ -107,6 +120,8 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **Sensors**, 2022.
 
+- This paper proposes a five-direction occlusion filling and pipelined post-processing method to improve stereo matching disparity refinement with sub-pixel estimation.
+
 </div>
 </div>
 
@@ -118,6 +133,8 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 **Yunhao Ma**, Xiwei Fang, Pingcheng Dong, Xinyu Guan, Ke Li, Lei Chen, Fengwei An
 
 **IEEE International System-on-Chip Conference**, 2022.
+
+- This paper implements real-time FPGA post-processing refinement for the Semi-Global Matching algorithm to improve stereo depth estimation quality.
 
 </div>
 </div>
@@ -132,16 +149,24 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **IEEE Asia Pacific Conference on Circuits and Systems**, 2022.
 
+- This paper develops a sub-pixel interpolation refinement method for Semi-Global Matching to improve disparity-map precision in stereo vision systems.
+
 </div>
 </div>
 
 # 📝 Co-author Publications 
 
-- [A Highly Energy-Efficient Multi-Core Neuromorphic Architecture for Training Deep Spiking Neural Networks](https://www.nature.com/articles/s41467-026-70586-x), **Nature Communications**, 2026, **11th author**.
-- [A High-Performance Hybrid Division Algorithm: Combining Additive Iteration, Multiplicative Lookup, and Precision Compensation on FPGA](https://ieeexplore.ieee.org/document/11376869), **IEEE International Conference on Electron Devices and Applications**, 2025, **5th author**.
-- [Stereo Matching Accelerator With Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10449892), **IEEE Transactions on Circuits and Systems I: Regular Papers**, 2024, **3rd author**.
-- [Real-Time_FPGA-Based_Binocular_Stereo_Vision_System_with_Semi-Global_Matching_Algorithm](https://ieeexplore.ieee.org/document/9739626), **IEEE International System-on-Chip Conference**, 2021, **5th author**.
+- [A Highly Energy-Efficient Multi-Core Neuromorphic Architecture for Training Deep Spiking Neural Networks](https://www.nature.com/articles/s41467-026-70586-x), **Nature Communications**, 2026, **11th author**.  
+  This work demonstrates a multi-core neuromorphic architecture for efficient deep SNN training and federated learning across FPGA-based systems.
 
+- [A High-Performance Hybrid Division Algorithm: Combining Additive Iteration, Multiplicative Lookup, and Precision Compensation on FPGA](https://ieeexplore.ieee.org/document/11376869), **IEEE International Conference on Electron Devices and Applications**, 2025, **5th author**.  
+  This work proposes a hybrid FPGA division algorithm that combines iterative, lookup-based, and precision-compensation techniques for high-performance arithmetic computation.
+
+- [Stereo Matching Accelerator With Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10449892), **IEEE Transactions on Circuits and Systems I: Regular Papers**, 2024, **3rd author**.  
+  This work presents a stereo matching accelerator with recomputation and data-reuse pipeline strategies for real-time autonomous driving perception.
+
+- [Real-Time_FPGA-Based_Binocular_Stereo_Vision_System_with_Semi-Global_Matching_Algorithm](https://ieeexplore.ieee.org/document/9739626), **IEEE International System-on-Chip Conference**, 2021, **5th author**.  
+  This work implements a real-time FPGA-based binocular stereo vision system using the Semi-Global Matching algorithm.
 
 # 🔬 Research Projects
 
@@ -153,8 +178,8 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 ## Spiking Transformer Training Accelerator and Simulator
 - *2024.12 - 2026.02*
 - Proposed a spike-aware training architecture and a software-hardware co-design simulator for Spiking Transformers.
-- Covered key operators including matrix multiplication, batch normalization, leaky-and-fire neuron, and residual connection.
-- Supported forward propagation, backward propagation and weight gradient process in training with energy-dataflow analysis.
+- Covered key operators including matrix multiplication, batch normalization, leaky integrate-and-fire neurons, and residual connections.
+- Supported forward propagation, backward propagation, and weight-gradient computation in training with energy-dataflow analysis.
 - Validated key components through Verilog/HLS-based FPGA synthesis and implementation.
 
 ## Many-Core CSNN Training Accelerator Architecture
@@ -182,7 +207,6 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 - *2022*: Zhicheng College Innovation and Entrepreneurship Scholarship, Top 2.
 - *2021*: International First Prize in academic competitions at Southern University of Science and Technology.
 - *2021*: Global Intelligent Robot Competition, Best Performance Award and Global Champion.
-
 
 # 💻 Technical Skills
 
