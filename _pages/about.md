@@ -30,8 +30,8 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 # 🔥 News
 
-- *2026*: &nbsp; Started to try researching on key sparse operator optimization for large-model inference on Huawei Ascend NPUs.
-- *2026*: &nbsp; 🎉One first-author paper is under reviewed by **MCSoC 2026** on communication-aware placement optimization for many-core SNN training.
+- *2026*: &nbsp; Started research on key sparse operator optimization for large-model inference on Huawei Ascend NPUs.
+- *2026*: &nbsp; 🎉One first-author paper is under review by **MCSoC 2026** on communication-aware placement optimization for many-core SNN training.
 - *2026*: &nbsp; 🔥One co-author paper published in **Nature Communications** on SNN training architecture on five FPGAs for federated learning.
 - *2026*: &nbsp; 🎉One first-author paper accepted by **IEEE NEWCAS 2026** on simulation-guided SNN training co-design with FPGA prototyping.
 - *2026*: &nbsp; 🔥One first-author paper published in **Microelectronics Journal** on spike-aware training architecture for Spiking Transformers.
@@ -130,7 +130,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **Yunhao Ma**, Xiwei Fang, Pingcheng Dong, Xinyu Guan, Ke Li, Lei Chen, Fengwei An
 
-**IEEE IEEE Asia Pacific Conference on Circuits and Systems**, 2022.
+**IEEE Asia Pacific Conference on Circuits and Systems**, 2022.
 
 </div>
 </div>
@@ -154,7 +154,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 - *2024.12 - 2026.02*
 - Proposed a spike-aware training architecture and a software-hardware co-design simulator for Spiking Transformers.
 - Covered key operators including matrix multiplication, batch normalization, leaky-and-fire neuron, and residual connection.
-- Supported forward propagation, backword propagation and weight gradient process in training with energy-dataflow analysis.
+- Supported forward propagation, backward propagation and weight gradient process in training with energy-dataflow analysis.
 - Validated key components through Verilog/HLS-based FPGA synthesis and implementation.
 
 ## Many-Core CSNN Training Accelerator Architecture
