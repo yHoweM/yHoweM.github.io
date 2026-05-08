@@ -211,12 +211,6 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 - **Modeling and Simulation**: Energy modeling, dataflow simulation, memory hierarchy analysis, CACTI, Vivado/Vitis HLS, Synopsys, Calibre.
 - **Programming**: Python, C/C++, Verilog, HLS C/C++, shell scripting.
 
-# 💬 Selected Research Interests
-
-- AI accelerator hardware architecture and simulation.
-- Hardware-software co-design for efficient AI systems.
-- Sparse attention operator optimization on commercial NPUs.
-
 # 🏠 Internships
 
 - 2023.05 - 2023.08, future vison, China.
