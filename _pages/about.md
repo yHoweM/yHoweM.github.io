@@ -126,7 +126,7 @@ Mingjing Li, Huihui Zhou, Xiaofeng Xu, Zhiwei Zhong, Puli Quan, Xueke Zhu, Yanyu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCASI 2024</div><img src='images/tcas12024.png' alt="sensors" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCASI 2024</div><img src='images/tcas12024.png' alt="TCAS1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Stereo Matching Accelerator With Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10449892)
@@ -135,7 +135,7 @@ Ke Li, Xiwei Fang , **Yunhao Ma**, Wenyue Zhang , Pingcheng Dong, Zhuoyu Chen , 
 
 **IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS—I: REGULAR PAPERS**, 2024.
 
-- This paper proposes a five-direction occlusion filling and pipelined post-processing method to improve stereo matching disparity refinement with sub-pixel estimation.
+- This paper proposes a nine-direction occlusion filling and pipelined post-processing method to improve stereo matching disparity refinement with sub-pixel estimation.
 
 </div>
 </div>
@@ -186,8 +186,6 @@ Ke Li, Xiwei Fang , **Yunhao Ma**, Wenyue Zhang , Pingcheng Dong, Zhuoyu Chen , 
 # 📝 Collaborative Publications 
 
 - [A High-Performance Hybrid Division Algorithm: Combining Additive Iteration, Multiplicative Lookup, and Precision Compensation on FPGA](https://ieeexplore.ieee.org/document/11376869), **IEEE International Conference on Electron Devices and Applications**, 2025, **5th author**.  
-
-- [Stereo Matching Accelerator With Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10449892), **IEEE Transactions on Circuits and Systems I: Regular Papers**, 2024, **3rd author**.  
 
 - [Real-Time_FPGA-Based_Binocular_Stereo_Vision_System_with_Semi-Global_Matching_Algorithm](https://ieeexplore.ieee.org/document/9739626), **IEEE International System-on-Chip Conference**, 2021, **5th author**.  
 
