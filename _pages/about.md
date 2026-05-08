@@ -65,7 +65,7 @@ Before and during my Ph.D. study, I worked on several hardware-oriented AI compu
 
 **IEEE International NEWCAS Conference**, 2026.
 
-- This paper proposes a simulation-guided hardware-software co-design framework for SNN training, covering forward propagation, backward propagation, and weight-gradient computation with FPGA prototype validation.
+- This paper proposes a simulation-guided hardware-software co-design framework for SNN training, covering forward propagation, backward propagation, and weight-gradient computation with FPGA prototype validation. The presentation [video]([https://www.bilibili.com/video/BV1j6dgBwEhF/?vd_source=53ffde686111be600545be4e3bb14641](https://www.bilibili.com/video/BV1FidGBkEvp/)) provides more information.
 
 </div>
 </div>
