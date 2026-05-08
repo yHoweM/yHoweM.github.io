@@ -52,8 +52,6 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 
 **Microelectronics Journal**, 2026.
 
-[**PDF**](#) | [**DOI**](#) | [**BibTeX**](#)
-
 - Proposed a spike-aware training architecture for Spiking Transformers, supporting FP, BP, and WG stages.
 - Designed a reuse processing element array for both spike-gated FP16 accumulation and FP16 MAC computation.
 - Developed a cross-layer simulation framework for energy, latency, and dataflow analysis.
@@ -69,8 +67,6 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 
 **IEEE International NEWCAS Conference**, 2026.
 
-[**PDF**](#) | [**BibTeX**](#)
-
 - Proposed a simulation-guided hardware-software co-design framework for SNN training.
 - Covered forward propagation, backward propagation, and weight-gradient computation.
 - Validated the selected architecture and dataflow through FPGA prototyping.
@@ -84,9 +80,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 
 **Yunhao Ma**, Wanting Wen, Yanyu Lin, Wenjie Lin, Wenxiang Cheng, Boyang Ma, Xiang Li, Wanyi Jia, Zhengyu Ma, Fengwei An, Xueke Zhu, Yonghong Tian, Huihui Zhou
 
-**IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip**, 2026.
-
-[**PDF**](#) | [**BibTeX**](#)
+(under review) **IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip**, 2026.
 
 - Studied communication-aware placement for SNN training on many-core near-memory systems.
 - Proposed a graph-based PPO placement optimizer to reduce NoC communication cost and hotspots.
@@ -103,12 +97,25 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=oreBfP8AAAAJ'
 
 **IEEE International System-on-Chip Conference**, 2025.
 
-[**PDF**](#) | [**BibTeX**](#)
-
 - Built a simulation framework for spike-driven Transformer workloads.
 - Analyzed energy and dataflow trade-offs for spike-aware AI computing.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SOCC 2025</div><img src='images/socc2025.png' alt="SimST Framework" width="65%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multiple Precision Floating-Point Fused-Multiply-Add Processor with Hardware Reuse Architecture](#)
+
+**Yunhao Ma**, Yuhan Wang, Hailin Chen, Runyang Liu, Lei Chen, Huihui Zhou, Fengwei An
+
+**IEEE International Conference on Integrated Circuits, Technologies, and Applications**, 2025.
+
+- Built a floating point IP compared with Xilinx Vivado IP.
+</div>
+</div>
+
+
 
 - [Multiple Precision Floating-Point Fused-Multiply-Add Processor with Hardware Reuse Architecture](#), **Yunhao Ma**, et al., **IEEE ICTA 2025**.
 - [Stereo Depth Co-Processor ASIC Design](#), Collaborative work, **IEEE Transactions on Circuits and Systems I: Regular Papers**, 2024.
