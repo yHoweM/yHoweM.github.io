@@ -43,7 +43,7 @@ Google Scholar: <a href='https://scholar.google.com/citations?user=YOUR_ID'>prof
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEJ 2026</div><img src='images/spiking_transformer_training.png' alt="Spiking Transformer Training Architecture" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEJ 2026</div><img src='images/mej2026.png' alt="Spiking Transformer Training Architecture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Energy-Efficient Spike-Aware Training Architecture for Spiking Transformers](#)
